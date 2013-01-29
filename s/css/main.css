@@ -74,3 +74,7 @@ a.skype {
 	padding-left: 20px;
 	background: url("/s/img/skype-icon.png") no-repeat left center;
 }
+
+.you-will li, .will-work li{
+	cursor: pointer;
+}
