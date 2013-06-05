@@ -56,6 +56,7 @@ h3{
 	padding: 20px;
 	line-height: 1.6em;
 	margin-bottom: 20px;
+	margin-left: 50px;
 }
 .team label{
 	font-weight: bold;
@@ -77,4 +78,8 @@ a.skype {
 
 .you-will li, .will-work li{
 	cursor: pointer;
+}
+
+.hero-unit {
+	text-align: center;
 }
